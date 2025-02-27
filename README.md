@@ -5,8 +5,8 @@ LMNOP (LLM-based Microbial Metadata Notebook Processing) is a tool presented in 
 ## Inputs
 
 Two things are necessary for using LMNOP:
-1) **Metadata file:** - either tab-separated (.tsv) or comma-separated (.csv)
-2) **An OpenAI API Key:** - This will allow you to make calls to the LLM. See below.
+1) **Metadata file:** Either tab-separated (.tsv) or comma-separated (.csv) file
+2) **An OpenAI API Key:** This will allow you to make calls to the LLM. See below.
    
 ## Installation
 
