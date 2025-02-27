@@ -4,28 +4,29 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - ipython=8.30.0
-  - pandas=2.2.3
-  - traitlets=5.14.3
+  - ipython
+  - pandas
+  - traitlets
   - jupyter
   - click
   - flake8
   - nose
   - pep8
   - pyyaml 
+  - pip
   - pip:
-      - ipylab==1.0.0 
-      - ipywidgets==8.1.5 
+      - ipylab
+      - ipywidgets
       - ipykernel
-      - langchain==0.3.10 
-      - langchain-core==0.3.22 
-      - langchain-openai==0.2.11 
+      - langchain
+      - langchain-core
+      - langchain-openai
       - langgraph
       - langchain-community
-      - matplotlib==3.9.3 
-      - numpy==1.26.4
-      - openai==1.57.0
-      - scipy==1.15.1
-      - seaborn==0.13.2
-      - sounddevice==0.5.1
-      - speechrecognition==3.14.1
+      - matplotlib
+      - numpy
+      - openai
+      - scipy
+      - seaborn
+      - sounddevice
+      - speechrecognition
