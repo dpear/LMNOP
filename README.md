@@ -43,6 +43,9 @@ Cells that make a call to the LLM will automatically disable themselves by switc
 If you wish to rerun a cell to re-ask a quesion, cells need only be switched back from `raw` cell type to `code` cell type.  More information can be found at the following resources:
 - https://www.geeksforgeeks.org/markdown-cell-in-jupyter-notebook/
 
+## Voice recognition
+To enable or disable audio transcription, set `g_use_speech=True` variable in the `tutorial.ipynb` notebook. This will add the speech recognition / Record button to the list of buttons in the notebook and allow you to record speech that will be transcribed and sent as a call to the LLM.
+
 
 ## How to Obtain an API Key from OpenAI
 
