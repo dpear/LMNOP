@@ -4,7 +4,7 @@ LMNOP (LLM-based Microbial Metadata Notebook Processing) is a tool presented in 
 
 ## Inputs
 
-Two things are necessary for using LMNOP:
+Two things are necessary to have before using the LMNOP notebook:
 1) **Metadata file:** Either tab-separated (.tsv) or comma-separated (.csv) file
 2) **An OpenAI API Key:** This will allow you to make calls to the LLM. See below.
    
@@ -38,11 +38,8 @@ Navigate to the `tutorial.ipynb` notebook and run to see an example of the diffe
 Cells that make a call to the LLM will automatically disable themselves by switching from `code` cell type to `raw` cell type. This is because each call to the LLM may produce different results based on a probabilistic response generating scheme, which is re-trained each time a call is made (imagine asking ChatGPT the same question twice in a row; you would expect to get two similar but different results). Normal jupyter notebook behavior–code behavior in general–maintains that running the same code or cells from top to bottom produces the same result, which would not be the case for calls to the LLM. Unlike `np.random` or similar libraries that rely on stochasticity, there is no way of setting a seed when making calls to the LLM. Thus the notebook saves both the call and the response to the LLM but disable the cells, which is especially helpful so that **an informative response from the LLM does not get deleted.**
 
 ## Re-Enabling cells that make a call to an LLM
-Cells need only be switched back from `raw` cell type to `code` cell type. More information can be found at the following resources:
-
-https://jupyter-notebook.readthedocs.io/en/stable/notebook.html
-https://www.geeksforgeeks.org/markdown-cell-in-jupyter-notebook/
-https://discourse.jupyter.org/c/notebook/31
+If you wish to rerun a cell to re-ask a quesion, cells need only be switched back from `raw` cell type to `code` cell type.  More information can be found at the following resources:
+- https://www.geeksforgeeks.org/markdown-cell-in-jupyter-notebook/
 
 
 ## How to Obtain an API Key from OpenAI
