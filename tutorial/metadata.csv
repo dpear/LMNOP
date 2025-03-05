@@ -78,16 +78,16 @@ WBE048,M,1991,Chinese,Singapore,58,163,Occasionally,No,Yes,E2422X/3321delA,2+,3+
 WBE049,M,1991,Chinese,Singapore,58,163,Occasionally,No,Yes,E2422X/3321delA,2+,3+,1+,0,Yes,Indeterminate,Case,Case,Case,Antecubital fossa ,tape
 WBU005,F,1973,Chinese,China,56,166,Occasionally,Yes,Yes,WT,3+,2+,0,0,Yes,Intermediate,Case,Case,Case,Antecubital fossa ,tape
 WBU006,F,1973,Chinese,China,56,166,Occasionally,Yes,Yes,WT,3+,2+,0,0,Yes,Intermediate,Case,Case,Case,Antecubital fossa ,tape
-WBS009,M,1987,Chinese,Singapore,70,171,Occasionally,No,Yes,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,Retroauricular crease,swab
-WBS008,M,1987,Chinese,Singapore,70,171,Occasionally,No,Yes,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,Retroauricular crease,tape
-WBS011 ,M,1989,Caucasian,United Kingdom,72,183,Occasionally,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,Retroauricular crease,swab
-WBS010,M,1989,Caucasian,United Kingdom,72,183,Occasionally,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,Retroauricular crease,tape
-WOS016 ,M,1963,Caucasian,Poland,82,189,Occasionally,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,Retroauricular crease,swab
-WOS017 ,M,1963,Caucasian,Poland,82,189,Occasionally,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,Retroauricular crease,tape
-WOS010 ,M,1963,Caucasian,Poland,82,189,Occasionally,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,(Left) Antecubital Fossa ,swab
-WOS012 ,M,1963,Caucasian,Poland,82,189,Occasionally,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,(Left) Antecubital Fossa ,tape
-WOS014 ,M,1963,Caucasian,Poland,82,189,Occasionally,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,(Left) Antecubital Fossa ,cup scrub
-WOS011 ,M,1963,Caucasian,Poland,82,189,Occasionally,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,(Right) Antecubital Fossa ,swab
+WBS009,M,1987,Chinese,Singapore,70,171,Sometimes,No,Yes,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,Retroauricular crease,swab
+WBS008,M,1987,Chinese,Singapore,70,171,Sometimes,No,Yes,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,Retroauricular crease,tape
+WBS011 ,M,1989,Caucasian,United Kingdom,72,183,Sometimes,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,Retroauricular crease,swab
+WBS010,M,1989,Caucasian,United Kingdom,72,183,Sometimes,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,Retroauricular crease,tape
+WOS016 ,M,1963,Caucasian,Poland,82,189,Sometimes,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,Retroauricular crease,swab
+WOS017 ,M,1963,Caucasian,Poland,82,189,Sometimes,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,Retroauricular crease,tape
+WOS010 ,M,1963,Caucasian,Poland,82,189,Sometimes,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,(Left) Antecubital Fossa ,swab
+WOS012 ,M,1963,Caucasian,Poland,82,189,Sometimes,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,(Left) Antecubital Fossa ,tape
+WOS014 ,M,1963,Caucasian,Poland,82,189,Sometimes,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,(Left) Antecubital Fossa ,cup scrub
+WOS011 ,M,1963,Caucasian,Poland,82,189,Sometimes,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,(Right) Antecubital Fossa ,swab
 WOS013 ,M,1963,Caucasian,Poland,82,189,Occasionally,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,(Right) Antecubital Fossa ,tape
 WOS015 ,M,1963,Caucasian,Poland,82,189,Occasionally,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,(Right) Antecubital Fossa ,cup scrub
 WOS018 ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gloves,NA,tape
