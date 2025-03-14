@@ -1,0 +1,95 @@
+LibraryID,Gender,Year of Birth,Ethnicity,Country of Birth,Weight (kg),Height (cm),Alcohol,Passive Smoking,Presence of pets,FLG Genotype,Blomia tropicalis (dust mite),Dermatophagoides pteronyssinus (dust mite),Elaeis guineensis (oil palm pollen),Curvularia spp. (fungus),Skin Prick Test (≥3+),Asthma Status,AR Status,AD Status,Sample Type,Sampling_Area,Sampling_Method
+WBE005,M,1986,Chinese,Indonesia,Not collected,Not collected,Non-drinker,No,No,WT,0,0,0,0,No,Control,Control,Control,Control,Antecubital fossa,tape
+WBE006,M,1986,Chinese,Indonesia,Not collected,Not collected,Non-drinker,No,No,WT,0,0,0,0,No,Control,Control,Control,Control,Antecubital fossa,tape
+WBE007,F,1987,Chinese,Singapore,47,Not collected,Non-drinker,No,No,WT,0,0,0,0,No,Indeterminate,Indeterminate,Control,Control,Antecubital fossa,tape
+WBE008,F,1987,Chinese,Singapore,47,Not collected,Non-drinker,No,No,WT,0,0,0,0,No,Indeterminate,Indeterminate,Control,Control,Antecubital fossa,tape
+WBE017,M,1988,Chinese,China,63,178,Occasionally,Yes,No,S1515X,0,0,0,0,No,Control,Indeterminate,Control,Control,Antecubital fossa,tape
+WBE018,M,1988,Chinese,China,63,178,Occasionally,Yes,No,S1515X,0,0,0,0,No,Control,Indeterminate,Control,Control,Antecubital fossa,tape
+WBE019,M,1986,Chinese,Singapore,53,163,Occasionally,No,0,WT,0,0,0,0,No,Control,Indeterminate,Control,Control,Antecubital fossa,tape
+WBE020,M,1986,Chinese,Singapore,53,163,Occasionally,No,0,WT,0,0,0,0,No,Control,Indeterminate,Control,Control,Antecubital fossa,tape
+WBS016,F,1993,Chinese,China,47,162,Non-drinker,No,No,WT,0,0,0,0,No,Control,Phenotype unknown,Control,Control,Antecubital fossa,tape
+WBS017,F,1993,Chinese,China,47,162,Non-drinker,No,No,WT,0,0,0,0,No,Control,Phenotype unknown,Control,Control,Antecubital fossa,tape
+WBS018,M,1993,Chinese,Malaysia,63,174.4,Occasionally,No,No,WT,0,0,0,0,No,Control,Control,Control,Control,Antecubital fossa,tape
+WBS019,M,1993,Chinese,Malaysia,63,174.4,Occasionally,No,No,WT,0,0,0,0,No,Control,Control,Control,Control,Antecubital fossa,tape
+WBU001,M,1986,Chinese,China,126,172,Non-drinker,No,No,WT,0,0,0,0,No,Control,Control,Control,Control,Antecubital fossa,tape
+WBU002,M,1986,Chinese,China,126,172,Non-drinker,No,No,WT,0,0,0,0,No,Control,Control,Control,Control,Antecubital fossa,tape
+WBU003,F,1985,Chinese,Singapore,70,168,Non-drinker,No,Yes,WT,0,0,0,0,No,Control,Control,Control,Control,Antecubital fossa,tape
+WBU004,F,1985,Chinese,Singapore,70,168,Non-drinker,No,Yes,WT,0,0,0,0,No,Control,Control,Control,Control,Antecubital fossa,tape
+WBU007,F,1993,Chinese,Singapore,45.9,154,Non-drinker,No,Yes,WT,0,0,0,0,No,Indeterminate,Control,Control,Control,Antecubital fossa,tape
+WBU008,F,1993,Chinese,Singapore,45.9,154,Non-drinker,No,Yes,WT,0,0,0,0,No,Indeterminate,Control,Control,Control,Antecubital fossa,tape
+WBU009,F,1992,Chinese,Malaysia,50.5,160,Occasionally,No,Yes,WT,0,0,0,0,No,Control,Control,Control,Control,Antecubital fossa,tape
+WBU010,F,1992,Chinese,Malaysia,50.5,160,Occasionally,No,Yes,WT,0,0,0,0,No,Control,Control,Control,Control,Antecubital fossa,tape
+WBU011,F,1996,Chinese,China,46,155,Non-drinker,No,No,WT,0,0,0,0,No,Control,Control,Control,Control,Antecubital fossa,tape
+WBU012,F,1996,Chinese,China,46,155,Non-drinker,No,No,WT,0,0,0,0,No,Control,Control,Control,Control,Antecubital fossa,tape
+WBU013,M,1986,Chinese,Brunei,62,169,Occasionally,No,Yes,WT,0,0,0,0,No,Control,Control,Control,Control,Antecubital fossa,tape
+WBU014,M,1986,Chinese,Brunei,62,169,Occasionally,No,Yes,WT,0,0,0,0,No,Control,Control,Control,Control,Antecubital fossa,tape
+WBU015,M,1992,Chinese,China,60,173,Occasionally,No,No,WT,0,0,0,0,No,Control,Indeterminate,Control,Control,Antecubital fossa,tape
+WBU016,M,1992,Chinese,China,60,173,Occasionally,No,No,WT,0,0,0,0,No,Control,Indeterminate,Control,Control,Antecubital fossa,tape
+WBU017,M,1994,Chinese,Malaysia,64,168,Occasionally,No,Yes,WT,0,0,0,0,No,Control,Indeterminate,Control,Control,Antecubital fossa,tape
+WBU018,M,1994,Chinese,Malaysia,64,168,Occasionally,No,Yes,WT,0,0,0,0,No,Control,Indeterminate,Control,Control,Antecubital fossa,tape
+WBU019,F,1992,Chinese,China,50,173,Non-drinker,No,No,WT,0,0,0,0,No,Control,Control,Control,Control,Antecubital fossa,tape
+WBU020,F,1992,Chinese,China,50,173,Non-drinker,No,No,WT,0,0,0,0,No,Control,Control,Control,Control,Antecubital fossa,tape
+WBE042,F,1991,Chinese,Hong Kong,52.9,151,Occasionally,No,No,WT,3+,3+,3+,0,Yes,Indeterminate,Case,Control,Atopic Control,Antecubital fossa,tape
+WBE043,F,1991,Chinese,Hong Kong,52.9,151,Occasionally,No,No,WT,3+,3+,3+,0,Yes,Indeterminate,Case,Control,Atopic Control,Antecubital fossa,tape
+WBS012,M,1992,Chinese,Singapore,80,180,Occasionally,No,No,WT,3+,3+,0,0,Yes,Intermediate,Intermediate,Control,Atopic Control,Antecubital fossa,tape
+WBS013,M,1992,Chinese,Singapore,80,180,Occasionally,No,No,WT,3+,3+,0,0,Yes,Intermediate,Intermediate,Control,Atopic Control,Antecubital fossa,tape
+WBS014,F,1990,Chinese,Singapore,55,160,Occasionally,No,Yes,WT,3+,2+,0,0,Yes,Intermediate,Case,Control,Atopic Control,Antecubital fossa,tape
+WBS015,F,1990,Chinese,Singapore,55,160,Occasionally,No,Yes,WT,3+,2+,0,0,Yes,Intermediate,Case,Control,Atopic Control,Antecubital fossa,tape
+WBS020,M,1990,Chinese,Singapore,75,185,Occasionally,No,No,WT,3+,3+,3+,0,Yes,Intermediate,Intermediate,Control,Atopic Control,Antecubital fossa,tape
+WBS021,M,1990,Chinese,Singapore,75,185,Occasionally,No,No,WT,3+,3+,3+,0,Yes,Intermediate,Intermediate,Control,Atopic Control,Antecubital fossa,tape
+WBS022,M,1992,Chinese,Singapore,63,173,Non-drinker,No,Yes,WT,3+,3+,0,0,Yes,Intermediate,Case,Control,Atopic Control,Antecubital fossa,tape
+WBS023,M,1992,Chinese,Singapore,63,173,Non-drinker,No,Yes,WT,3+,3+,0,0,Yes,Intermediate,Case,Control,Atopic Control,Antecubital fossa,tape
+WBE003,M,1987,Chinese,Singapore,84,182,Non-drinker,No,Yes,WT,3+,3+,0,0,Yes,Indeterminate,Case,Case,Case,Antecubital fossa,tape
+WBE004,M,1987,Chinese,Singapore,84,182,Non-drinker,No,Yes,WT,3+,3+,0,0,Yes,Indeterminate,Case,Case,Case,Antecubital fossa,tape
+WBE009,F,1994,Chinese,Singapore,46,163,Non-drinker,No,Yes,WT,2+,3+,1+,1+,Yes,Indeterminate,Case,Case,Case,Antecubital fossa,tape
+WBE010,F,1994,Chinese,Singapore,46,163,Non-drinker,No,Yes,WT,2+,3+,1+,1+,Yes,Indeterminate,Case,Case,Case,Antecubital fossa,tape
+WBE011,F,1994,Chinese,China,46,154,Occasionally,No,Yes,WT,1+,3+,1+,0,Yes,Indeterminate,Case,Case,Case,Antecubital fossa,tape
+WBE012,F,1994,Chinese,China,46,154,Occasionally,No,Yes,WT,1+,3+,1+,0,Yes,Indeterminate,Case,Case,Case,Antecubital fossa,tape
+WBE013,F,1991,Chinese,Singapore,55,151,Non-drinker,No,Yes,WT,2+,3+,0,0,Yes,Indeterminate,Indeterminate,Case,Case,Antecubital fossa,tape
+WBE014,F,1991,Chinese,Singapore,55,151,Non-drinker,No,Yes,WT,2+,3+,0,0,Yes,Indeterminate,Indeterminate,Case,Case,Antecubital fossa,tape
+WBE015,F,1992,Chinese,Singapore,42,142,Non-drinker,No,No,WT,1+,3+,0,0,Yes,Indeterminate,Indeterminate,Case,Case,Antecubital fossa,tape
+WBE016,F,1992,Chinese,Singapore,42,142,Non-drinker,No,No,WT,1+,3+,0,0,Yes,Indeterminate,Indeterminate,Case,Case,Antecubital fossa,tape
+WBE021,F,1992,Chinese,Singapore,57,161,Non-drinker,No,Yes,WT,3+,3+,0,0,Yes,Indeterminate,Indeterminate,Case,Case,Antecubital fossa,tape
+WBE022,F,1992,Chinese,Singapore,57,161,Non-drinker,No,Yes,WT,3+,3+,0,0,Yes,Indeterminate,Indeterminate,Case,Case,Antecubital fossa,tape
+WBE023,M,1992,Chinese,Singapore,60,173,Occasionally,No,No,WT,3+,3+,0,0,Yes,Indeterminate,Indeterminate,Case,Case,Antecubital fossa,tape
+WBE024,M,1992,Chinese,Singapore,60,173,Occasionally,No,No,WT,3+,3+,0,0,Yes,Indeterminate,Indeterminate,Case,Case,Antecubital fossa,tape
+WBE025*,F,1993,Chinese,Singapore,50,161.5,Occasionally,Yes,Yes,WT,3+,3+,0,0,Yes,Indeterminate,Indeterminate,Case,Case,Antecubital fossa,tape
+WBE026,M,1989,Chinese,China,72,180,Non-drinker,No,No,WT,3+,3+,0,3+,Yes,Case,Case,Case,Case,Antecubital fossa,tape
+WBE027,M,1989,Chinese,China,72,180,Non-drinker,No,No,WT,3+,3+,0,3+,Yes,Case,Case,Case,Case,Antecubital fossa,tape
+WBE028,M,1990,Chinese,Singapore,77,179,Occasionally,No,Yes,WT,3+,3+,0,0,Yes,Case,Case,Case,Case,Antecubital fossa,tape
+WBE029,M,1990,Chinese,Singapore,77,179,Occasionally,No,Yes,WT,3+,3+,0,0,Yes,Case,Case,Case,Case,Antecubital fossa,tape
+WBE030,F,1992,Chinese,Singapore,55,169,Occasionally,No,Yes,WT,3+,1+,0,0,Yes,Indeterminate,Case,Case,Case,Antecubital fossa,tape
+WBE031,F,1992,Chinese,Singapore,55,169,Occasionally,No,Yes,WT,3+,1+,0,0,Yes,Indeterminate,Case,Case,Case,Antecubital fossa,tape
+WBE032,M,1993,Chinese,Malaysia,57,173,Non-drinker,No,No,WT,2+,3+,1+,0,Yes,Indeterminate,Case,Case,Case,Antecubital fossa,tape
+WBE033,M,1993,Chinese,Malaysia,57,173,Non-drinker,No,No,WT,2+,3+,1+,0,Yes,Indeterminate,Case,Case,Case,Antecubital fossa,tape
+WBE034,M,1991,Chinese,Singapore,74,178,Occasionally,No,No,WT,3+,2+,0,0,Yes,Case,Indeterminate,Case,Case,Antecubital fossa,tape
+WBE035,M,1991,Chinese,Singapore,74,178,Occasionally,No,No,WT,3+,2+,0,0,Yes,Case,Indeterminate,Case,Case,Antecubital fossa,tape
+WBE036,F,1992,Chinese,Singapore,43,151,Occasionally,No,Yes,E2422X,3+,3+,0,0,Yes,Indeterminate,Indeterminate,Case,Case,Antecubital fossa,tape
+WBE037,F,1992,Chinese,Singapore,43,151,Occasionally,No,Yes,E2422X,3+,3+,0,0,Yes,Indeterminate,Indeterminate,Case,Case,Antecubital fossa,tape
+WBE038,F,1993,Chinese,Singapore,56,156,Occasionally,No,No,WT,3+,3+,0,0,Yes,Case,Indeterminate,Case,Case,Antecubital fossa,tape
+WBE039,F,1993,Chinese,Singapore,56,156,Occasionally,No,No,WT,3+,3+,0,0,Yes,Case,Indeterminate,Case,Case,Antecubital fossa,tape
+WBE040,M,1991,Chinese,Singapore,59,172,Non-drinker,No,No,WT,3+,3+,0,0,Yes,Indeterminate,Case,Case,Case,Antecubital fossa,tape
+WBE041,M,1991,Chinese,Singapore,59,172,Non-drinker,No,No,WT,3+,3+,0,0,Yes,Indeterminate,Case,Case,Case,Antecubital fossa,tape
+WBE044,F,1994,Chinese,Singapore,49,165,Occasionally,Yes,Yes,WT,3+,4+,0,0,Yes,Case,Case,Case,Case,Antecubital fossa,tape
+WBE045,F,1994,Chinese,Singapore,49,165,Occasionally,Yes,Yes,WT,3+,4+,0,0,Yes,Case,Case,Case,Case,Antecubital fossa ,tape
+WBE046,F,1994,Chinese,Singapore,47,161,Non-drinker,No,No,WT,3+,3+,1+,1+,Yes,Indeterminate,Case,Case,Case,Antecubital fossa ,tape
+WBE047,F,1994,Chinese,Singapore,47,161,Non-drinker,No,No,WT,3+,3+,1+,1+,Yes,Indeterminate,Case,Case,Case,Antecubital fossa ,tape
+WBE048,M,1991,Chinese,Singapore,58,163,Occasionally,No,Yes,E2422X/3321delA,2+,3+,1+,0,Yes,Indeterminate,Case,Case,Case,Antecubital fossa ,tape
+WBE049,M,1991,Chinese,Singapore,58,163,Occasionally,No,Yes,E2422X/3321delA,2+,3+,1+,0,Yes,Indeterminate,Case,Case,Case,Antecubital fossa ,tape
+WBU005,F,1973,Chinese,China,56,166,Occasionally,Yes,Yes,WT,3+,2+,0,0,Yes,Intermediate,Case,Case,Case,Antecubital fossa ,tape
+WBU006,F,1973,Chinese,China,56,166,Occasionally,Yes,Yes,WT,3+,2+,0,0,Yes,Intermediate,Case,Case,Case,Antecubital fossa ,tape
+WBS009,M,1987,Chinese,Singapore,70,171,Sometimes,No,Yes,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,Retroauricular crease,swab
+WBS008,M,1987,Chinese,Singapore,70,171,Sometimes,No,Yes,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,Retroauricular crease,tape
+WBS011 ,M,1989,Caucasian,United Kingdom,72,183,Sometimes,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,Retroauricular crease,swab
+WBS010,M,1989,Caucasian,United Kingdom,72,183,Sometimes,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,Retroauricular crease,tape
+WOS016 ,M,1963,Caucasian,Poland,82,189,Sometimes,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,Retroauricular crease,swab
+WOS017 ,M,1963,Caucasian,Poland,82,189,Sometimes,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,Retroauricular crease,tape
+WOS010 ,M,1963,Caucasian,Poland,82,189,Sometimes,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,(Left) Antecubital Fossa ,swab
+WOS012 ,M,1963,Caucasian,Poland,82,189,Sometimes,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,(Left) Antecubital Fossa ,tape
+WOS014 ,M,1963,Caucasian,Poland,82,189,Sometimes,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,(Left) Antecubital Fossa ,cup scrub
+WOS011 ,M,1963,Caucasian,Poland,82,189,Sometimes,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,(Right) Antecubital Fossa ,swab
+WOS013 ,M,1963,Caucasian,Poland,82,189,Occasionally,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,(Right) Antecubital Fossa ,tape
+WOS015 ,M,1963,Caucasian,Poland,82,189,Occasionally,No,No,-,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Indeterminate,Control,Control,Control,Control,(Right) Antecubital Fossa ,cup scrub
+WOS018 ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gloves,NA,tape
+WOS019 ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Bench Top ,NA,tape
+WOS020 ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Door Knob ,NA,tape

@@ -1,0 +1,32 @@
+name: lmnop
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - ipython
+  - pandas
+  - traitlets
+  - jupyter
+  - click
+  - flake8
+  - nose
+  - pep8
+  - pyyaml 
+  - pip
+  - pip:
+      - ipylab
+      - ipywidgets
+      - ipykernel
+      - langchain
+      - langchain-core
+      - langchain-openai
+      - langgraph
+      - langchain-community
+      - matplotlib
+      - numpy
+      - openai
+      - scipy
+      - seaborn
+      - sounddevice
+      - speechrecognition
